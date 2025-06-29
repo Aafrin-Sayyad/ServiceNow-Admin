@@ -15,7 +15,7 @@ Project Title
   Compiled and formatted the final report and maintained documentation consistency.
 
 📄Project Description
-This project is a cloud-based platform built on the ServiceNow platform to streamline academic and administrative processes in educational institutions. It integrates registration, admission workflows, academic tracking, dashboards, and notifications into one centralized system.
+* This project is a cloud-based platform built on the ServiceNow platform to streamline academic and administrative processes in educational institutions. It integrates registration, admission workflows, academic tracking, dashboards, and notifications into one centralized system.
 
 🧩Key Features
 * Role-based registration and login system
