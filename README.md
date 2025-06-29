@@ -14,8 +14,8 @@ Project Title
 * **Gedela Prasanna – Final Report Coordinator**
   Compiled and formatted the final report and maintained documentation consistency.
 
-📄Project Description
-* This project is a cloud-based platform built on the ServiceNow platform to streamline academic and administrative processes in educational institutions. It integrates registration, admission workflows, academic tracking, dashboards, and notifications into one centralized system.
+📄Project Description  
+This project is a cloud-based platform built on the ServiceNow platform to streamline academic and administrative processes in educational institutions. It integrates registration, admission workflows, academic tracking, dashboards, and notifications into one centralized system.
 
 🧩Key Features
 * Role-based registration and login system
@@ -44,7 +44,7 @@ Project Title
 🧪Testing
 * Tested using User Acceptance Testing (UAT) across all major modules including registration, marks entry, admission tracking, and dashboard reporting. See full test case table in Section 6.
 
-🖼Screenshots & Demo
+🖼Screenshots & Demo  
 Screenshots and output examples are provided in Section 7 of the report.
 * **GitHub Repo**: [https://github.com/Aafrin-Sayyad/ServiceNow-Admin](https://github.com/Aafrin-Sayyad/ServiceNow-Admin)
 * **Demo Video**: [https://youtu.be/645sDSsHY6o](https://youtu.be/645sDSsHY6o)
