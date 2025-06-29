@@ -46,8 +46,8 @@ Tested using User Acceptance Testing (UAT) across all major modules including re
 
 🖼Screenshots & Demo
 Screenshots and output examples are provided in Section 7 of the report.
-**GitHub Repo**: [https://github.com/Aafrin-Sayyad/ServiceNow-Admin](https://github.com/Aafrin-Sayyad/ServiceNow-Admin)
-**Demo Video**: [https://youtu.be/645sDSsHY6o](https://youtu.be/645sDSsHY6o)
+* **GitHub Repo**: [https://github.com/Aafrin-Sayyad/ServiceNow-Admin](https://github.com/Aafrin-Sayyad/ServiceNow-Admin)
+* **Demo Video**: [https://youtu.be/645sDSsHY6o](https://youtu.be/645sDSsHY6o)
 
 🔐Known Issues
 * Limited notification customization in some cases
