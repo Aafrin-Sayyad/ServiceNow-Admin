@@ -42,7 +42,7 @@ Project Title
 * Admins: Full access to all modules and dashboards
 
 🧪Testing
-Tested using User Acceptance Testing (UAT) across all major modules including registration, marks entry, admission tracking, and dashboard reporting. See full test case table in Section 6.
+* Tested using User Acceptance Testing (UAT) across all major modules including registration, marks entry, admission tracking, and dashboard reporting. See full test case table in Section 6.
 
 🖼Screenshots & Demo
 Screenshots and output examples are provided in Section 7 of the report.
